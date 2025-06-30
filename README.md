@@ -1,8 +1,3 @@
-Sure! Here's a professional and visually appealing `README.md` for your Flutter user directory app:
-
----
-
-```markdown
 # 👥 SeekHelperPro – Flutter User Directory App
 
 A beautiful, responsive, and animated user management app built with **Flutter**, implementing **Provider for state management**, **GoRouter**, **Hero animations**, and **API integration**. Easily add, view, and search users with a smooth UI and modern UX.
@@ -45,33 +40,32 @@ A beautiful, responsive, and animated user management app built with **Flutter**
 
 ## 🏗️ Project Structure
 
-```
-
 lib/
 │
 ├── models/
-│   └── userModel.dart
+│ └── userModel.dart
 │
 ├── services/
-│   └── api.service.dart
+│ └── api.service.dart
 │
-├── view\_model/
-│   └── userViewModel.dart
+├── view_model/
+│ └── userViewModel.dart
 │
 ├── views/
-│   ├── home/
-│   │   └── homeScreen.dart
-│   ├── user\_detail/
-│   │   └── userDetailScreen.dart
-│   └── addUserScreen.dart
+│ ├── home/
+│ │ └── homeScreen.dart
+│ ├── user_detail/
+│ │ └── userDetailScreen.dart
+│ └── addUserScreen.dart
 │
 ├── resources/
-│   ├── themes.dart
-│   └── shimmer.dart
+│ ├── themes.dart
+│ └── shimmer.dart
 │
 └── app.dart
 
-````
+yaml
+Copy code
 
 ---
 
@@ -89,45 +83,18 @@ flutter pub get
 
 # 4. Run the app
 flutter run
-````
+🔗 API Source
+Using JSONPlaceholder for mock user data.
 
----
+🧪 To-Do / Improvements
+🌍 Add persistent storage
 
-## 🔗 API Source
+🎨 User avatars with network images
 
-Using [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) for mock user data.
+🔔 Push notifications
 
----
+✏️ Edit/Delete user functionality
 
-## 🧪 To-Do / Improvements
+🌐 Multi-language support
 
-* 🌍 Add persistent storage
-* 🎨 User avatars with network images
-* 🔔 Push notifications
-* ✏️ Edit/Delete user functionality
-* 🌐 Multi-language support
 
----
-
-## 🧑‍🎓 Author
-
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/yourhandle) | [Portfolio](https://yourportfolio.com)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-Let me know if you want:
-- A **live demo gif**
-- Auto-deploy instructions (e.g. on web)
-- Themed light/dark screenshots
-
-I can help you polish it more for your GitHub profile or job showcase.
-```
