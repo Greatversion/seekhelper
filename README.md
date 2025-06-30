@@ -17,13 +17,21 @@ A beautiful, responsive, and animated user management app built with **Flutter**
 
 ---
 
-## 📱 Screenshots
+## 📱 Demo
 
-| Home Screen | Detail Screen | Add User |
-|------------|---------------|----------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Add](screenshots/add.png) |
 
-> (Replace with real screenshots in `/screenshots` directory)
+https://github.com/user-attachments/assets/ded61716-a443-4c15-8f26-f51d20760276
+
+
+https://github.com/user-attachments/assets/bb2cc263-bca9-4dbe-ab8c-01cfafa34566
+
+
+https://github.com/user-attachments/assets/6c4f0eea-ceea-4044-994d-45f255de2534
+
+
+
+
+
 
 ---
 
